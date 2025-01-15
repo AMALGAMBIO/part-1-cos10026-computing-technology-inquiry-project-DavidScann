@@ -6,7 +6,8 @@ Student ID: 105533077
 Location: Swinburne Ho Chi Minh City
 
 <hr>
-## TODO:<br>
+## TODO:
+
 [ ] Week 1 Labs (impossible to complete) (for now)
 
 [x] Week 2 Labs
