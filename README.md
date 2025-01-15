@@ -5,11 +5,16 @@ Student name: Nguyen Minh Khoa
 Student ID: 105533077
 Location: Swinburne Ho Chi Minh City
 
-TODO:
+<hr>
+## TODO:
 [ ] Week 1 Labs (impossible to complete) (for now)
+
 [x] Week 2 Labs
+
 [x] Week 3 Labs
+
 [ ] Week 4 Labs
+
 [ ] Week 5 Labs
 
 and more...
