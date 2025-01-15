@@ -2,7 +2,9 @@
 
 # COS10026 - Swinburne University of Technology
 Student name: Nguyen Minh Khoa
+
 Student ID: 105533077
+
 Location: Swinburne Ho Chi Minh City
 
 <hr>
