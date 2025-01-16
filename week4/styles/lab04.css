@@ -64,3 +64,9 @@ ul {
 ol ul {
     list-style-type: square;
 }
+
+aside:hover {
+    /* display: none; this removes the element altogether */
+    visibility: hidden; /* this makes the element invisible instead */
+}
+
