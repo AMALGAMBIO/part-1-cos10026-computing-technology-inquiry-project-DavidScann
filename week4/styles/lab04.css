@@ -6,6 +6,11 @@ last modified: 16 Jan 2025
 description: lab04.html
 */
 
+* {
+    font-family: "calabri", sans-serif;
+    color: #2f4f4f; /* even after this universal colour change, <h1> is still "purple" */
+}
+
 h1 {
     color:purple;
     font-size: 2em;
@@ -23,7 +28,7 @@ aside, footer {
 }
 
 h1, h2, h3 {
-    font-style: arial, sans-serif;
+    font-family: "arial", sans-serif;
 }
 
 table, td, th {
@@ -67,6 +72,10 @@ ol ul {
 
 aside:hover {
     /* display: none; this removes the element altogether */
-    visibility: hidden; /* this makes the element invisible instead */
+    visibility: hidden; /* this makes the element invisible instead, but results in flickering(?) */
 }
 
+a:hover {
+    background-color: lightblue;
+    border-color: darkblue;
+}
