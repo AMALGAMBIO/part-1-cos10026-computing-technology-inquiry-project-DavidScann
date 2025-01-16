@@ -5,3 +5,9 @@ created: 16 Jan 2025
 last modified: 16 Jan 2025
 description: lab04.html
 */
+
+h1 {
+    color:purple;
+    font-size: 2em;
+    font-weight: bold;
+}
