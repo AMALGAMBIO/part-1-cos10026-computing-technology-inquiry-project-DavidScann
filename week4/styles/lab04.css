@@ -21,3 +21,7 @@ h2 {
 aside, footer {
     font-style: italic;
 }
+
+h1, h2, h3 {
+    font-style: arial, sans-serif;
+}
