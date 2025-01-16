@@ -37,3 +37,12 @@ table, td, th {
 #context-headings {
     color:red;
 }
+
+.special {
+    color: darkorange;
+    font-weight: bold;
+}
+
+.month {
+    text-align: right;
+}
