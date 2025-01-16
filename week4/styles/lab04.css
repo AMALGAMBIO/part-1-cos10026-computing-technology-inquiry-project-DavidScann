@@ -26,6 +26,6 @@ h1, h2, h3 {
     font-style: arial, sans-serif;
 }
 
-table {
+table, td, th {
     border: 1px solid black;
 }
