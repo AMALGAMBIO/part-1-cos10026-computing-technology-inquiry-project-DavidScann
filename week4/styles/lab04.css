@@ -33,3 +33,7 @@ table, td, th {
 #images {
     text-align: center;
 }
+
+#context-headings {
+    color:red;
+}
