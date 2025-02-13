@@ -15,6 +15,10 @@ aside:hover {
     display: inline-block;
 }
 
+#lists {
+    float: left;
+}
+
 aside {
     border: 4px inset purple;
     border-radius: 14px;
