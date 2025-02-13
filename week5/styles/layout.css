@@ -10,3 +10,7 @@ aside:hover {
     display: block;
     visibility: visible; /* mitigating visibility change instead of display */
 }
+
+.menu {
+    display: inline-block;
+}
