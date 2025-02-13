@@ -27,6 +27,10 @@ table {
     float: right;
 }
 
+#hyperlinks {
+    clear: both;
+}
+
 aside {
     border: 4px inset purple;
     border-radius: 14px;
