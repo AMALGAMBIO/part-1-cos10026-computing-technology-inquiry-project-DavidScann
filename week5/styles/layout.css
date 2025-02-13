@@ -40,6 +40,11 @@ table {
     border: 2px solid #ccc;
 }
 
+#lists, #images, #tables, #hyperlinks {
+    width: 50%;
+    text-align: center;
+}
+
 aside {
     border: 4px inset purple;
     border-radius: 14px;
