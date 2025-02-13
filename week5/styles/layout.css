@@ -54,4 +54,5 @@ header {
 
 footer {
     border-top: 4px double yellow;
+    clear: both;
 }
