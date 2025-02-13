@@ -22,6 +22,7 @@ aside {
     padding: 1em;
     background: url(images/fade.jpg) repeat-x top left; /* repeat-x is used to repeat background image 
                                                         only along the x-axis */
+    width: 30%;
 }
 
 header {
