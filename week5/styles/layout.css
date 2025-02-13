@@ -14,3 +14,12 @@ aside:hover {
 .menu {
     display: inline-block;
 }
+
+aside {
+    border: 4px inset purple;
+    border-radius: 14px;
+    margin: 1em;
+    padding: 1em;
+    background: url(images/fade.jpg) repeat-x top left; /* repeat-x is used to repeat background image 
+                                                        only along the x-axis */
+}
