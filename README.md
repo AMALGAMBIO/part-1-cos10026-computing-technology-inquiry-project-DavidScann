@@ -9,7 +9,7 @@ Location: Swinburne Ho Chi Minh City
 
 ## TODO:
 
-- [ ] Week 1 Labs (finally possible to complete)
+- [x] Week 1 Labs
 
 - [x] Week 2 Labs
 
@@ -19,4 +19,12 @@ Location: Swinburne Ho Chi Minh City
 
 - [ ] Week 5 Labs
 
-and more...
+- [ ] Week 6 Labs
+
+- [ ] Week 7 Labs
+
+- [ ] Week 8 Labs
+
+- [ ] Week 9 Labs
+
+- [ ] Week 10 Labs
