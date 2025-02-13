@@ -1,0 +1,12 @@
+/*
+filename: layout.css
+author: Minh Khoa Nguyen
+created: 2025-14-02
+last modified: 2021-14-02
+description: lab05task1.html
+*/
+
+aside:hover {
+    display: block;
+    visibility: visible; /* mitigating visibility change instead of display */
+}
