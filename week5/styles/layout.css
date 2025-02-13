@@ -57,6 +57,10 @@ aside {
     box-shadow: 10px 10px 5px #aaaaaa;
 }
 
+ol, ul, dl {
+    text-align: left;
+}
+
 header {
     border: 1px darkgray;
     margin: 0.5em;
