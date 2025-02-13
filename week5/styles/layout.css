@@ -31,3 +31,7 @@ header {
     background-color: lightgray;
     text-align: center;
 }
+
+footer {
+    border-top: 4px double yellow;
+}
