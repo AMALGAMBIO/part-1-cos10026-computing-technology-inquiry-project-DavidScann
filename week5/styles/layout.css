@@ -57,6 +57,10 @@ aside {
     box-shadow: 10px 10px 5px #aaaaaa;
 }
 
+article {
+    min-width: 30em;
+}
+
 ol, ul, dl {
     text-align: left;
 }
