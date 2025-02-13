@@ -29,6 +29,7 @@ table {
 
 #hyperlinks {
     clear: both;
+    float: left;
 }
 
 aside {
