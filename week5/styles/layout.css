@@ -23,6 +23,10 @@ table {
     margin: auto;
 }
 
+#tables {
+    float: right;
+}
+
 aside {
     border: 4px inset purple;
     border-radius: 14px;
