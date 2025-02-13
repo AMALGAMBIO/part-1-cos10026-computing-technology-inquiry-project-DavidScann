@@ -77,3 +77,8 @@ footer {
     border-top: 4px double yellow;
     clear: both;
 }
+
+footer p {
+    display: inline-block;
+    width: 33%;
+}
