@@ -19,6 +19,10 @@ aside:hover {
     float: left;
 }
 
+table {
+    margin: auto;
+}
+
 aside {
     border: 4px inset purple;
     border-radius: 14px;
