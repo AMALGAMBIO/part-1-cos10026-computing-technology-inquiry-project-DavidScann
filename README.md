@@ -17,7 +17,7 @@ Location: Swinburne Ho Chi Minh City
 
 - [x] Week 4 Labs
 
-- [ ] Week 5 Labs
+- [x] Week 5 Labs
 
 - [ ] Week 6 Labs
 
